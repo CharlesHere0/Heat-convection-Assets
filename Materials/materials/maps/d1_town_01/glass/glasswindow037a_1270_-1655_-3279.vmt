@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOW037A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/d1_town_01/c1270_-1655_-3279"
+	}
+}

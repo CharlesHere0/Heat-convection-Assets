@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEROOF004B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/d1_town_01/c1948_-961_-3705"
+	}
+}

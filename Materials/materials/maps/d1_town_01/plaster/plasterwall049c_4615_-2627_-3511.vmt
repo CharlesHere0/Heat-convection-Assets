@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTERWALL049C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/d1_town_01/c4615_-2627_-3511"
+	}
+}

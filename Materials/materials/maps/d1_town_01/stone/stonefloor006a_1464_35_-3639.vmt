@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/STONE/STONEFLOOR006A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/d1_town_01/c1464_35_-3639"
+	}
+}

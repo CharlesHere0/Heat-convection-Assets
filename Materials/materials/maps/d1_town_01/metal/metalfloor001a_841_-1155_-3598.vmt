@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALFLOOR001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/d1_town_01/c841_-1155_-3598"
+	}
+}

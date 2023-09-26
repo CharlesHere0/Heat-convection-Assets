@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL070E.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/d1_town_01/c1664_-1180_-3705"
+	}
+}

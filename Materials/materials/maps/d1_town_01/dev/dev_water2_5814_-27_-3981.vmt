@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DEV/DEV_WATER2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/d1_town_01/c5814_-27_-3981"
+		"Proxies"
+		{
+		}
+	}
+}
